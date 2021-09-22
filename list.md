@@ -4,3 +4,4 @@
 - Nishant Nayan
 - Samarth Katti
 - Harshit Raj Kumar
+- Sneha .R
